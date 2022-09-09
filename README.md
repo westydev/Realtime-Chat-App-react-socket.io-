@@ -1,1 +1,1 @@
-# Realtime-Chat-App-react-socket.io-
+# Realtime Chat App, React, Socket.io
